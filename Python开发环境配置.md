@@ -6,7 +6,7 @@
 3.下载安装程序后，运行exe安装包。在安装中选择Add Python to PATH这一项，然后一直next直到安装完成。如下图：
 
 
-![](https://github.com/1006269809/Data_mining/blob/master/image/%E5%AE%89%E8%A3%85%E5%90%91%E5%AF%BC.png)
+![](https://github.com/1006269809/Data_mining/blob/main/image/%E5%AE%89%E8%A3%85%E5%90%91%E5%AF%BC.png)
 
 
 ![](https://github.com/1006269809/Data_mining/blob/master/image/%E5%AE%89%E8%A3%85%E6%88%90%E5%8A%9F.png)
