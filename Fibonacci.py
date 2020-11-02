@@ -19,7 +19,7 @@ def fib_loop(n):
 def fib_yield(n):
     num_zero = 0
     num_one = 1
-    print(f"斐波那契数列前{n}项为：", end = "")
+    print(f"斐波那契数列前{n}项为：", end = "")  #\\函数中，尽可能不适用print，而是用return或者yield
     for i in range(n):
         yield num_zero      #生成器关键字
         num_zero, num_one = num_one, num_zero + num_one
